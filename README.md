@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I´m César Peñaranda
 
+## I´m a systems engineering student and i am willing to learn
+
+- Python
+- C++
+- Java
 <!--
 **Cesar1107/Cesar1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
